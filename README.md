@@ -1,4 +1,4 @@
-## Sample Django Project Using Postgres DB
+## Sample Django Project Using Postgres DB | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Sample-Django-Postgres-Project)
 
 1. Setup the DB Database:
       ```sql
