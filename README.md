@@ -39,14 +39,14 @@
       ```
 11. Insert some data into the newly created _`cars_car`_ and _`cars_driver`_ tables.
     > _**Note:**_ _You can use sample insert queries provided in below files:_     
-    > &rarr; [_**Cars_Car_Sample_Insert_Queries.txt**_](https://github.com/0xStryK3R/Sample-Django-Postgres-Project-/files/9330911/cars_car_sample_data.txt)     
-    > &rarr; [_**Cars_Driver_Sample_Insert_Queries.txt**_](https://github.com/0xStryK3R/Sample-Django-Postgres-Project-/files/9330912/cars_driver_sample_data.txt)
+    > [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="15" height="15"> cars_car.txt](https://github.com/0xStryK3R/Sample-Django-Postgres-Project-/files/9330911/cars_car_sample_data.txt)     
+    > [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-lines.svg" width="15" height="15"> cars_driver.txt](https://github.com/0xStryK3R/Sample-Django-Postgres-Project-/files/9330912/cars_driver_sample_data.txt)
 
 12. Run the project:
     ```console
     python manage.py runserver 0.0.0.0:5000
     ```    
-13. All Done!! [Click Here](http://localhost:5000/cars/1) to interact with your app:
+13. All Done!! [`Click Here`](http://localhost:5000/cars/1) to interact with your app:
 
 > _**Assumptions**: Python and Postgres has been setup and running prior to starting with this project._
 
